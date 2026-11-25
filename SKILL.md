@@ -1,6 +1,6 @@
 ---
 name: founder-marketing
-description: Plan positioning, channels, budget and a dated campaign from customer evidence; use copywriting for a standalone copy edit.
+description: Plan or review positioning, channels, budget and a dated campaign from customer evidence; use copywriting for a standalone copy edit and founder-launch for the launch countdown/run sheet.
 argument-hint: "[budget]"
 ---
 

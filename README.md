@@ -1,6 +1,6 @@
 # founder-marketing
 
-Plan positioning, channels, budget and a dated campaign from customer evidence; use copywriting for a standalone copy edit.
+Plan or review positioning, channels, budget and a dated campaign from customer evidence; use copywriting for a standalone copy edit and founder-launch for the launch countdown/run sheet.
 
 This is an agent skill: `SKILL.md` tells an AI coding agent such as Claude Code when to use it and which steps to follow.
 
